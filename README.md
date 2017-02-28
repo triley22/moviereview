@@ -1,24 +1,7 @@
-# README
+Movie Review Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Users must be signed in to add movies to database, write reviews, and search for movies.
 
-Things you may want to cover:
+Movie reviews can be given 1-5 star ratings with a text box for review.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Ability to search movies in the database with searchkick gem.
