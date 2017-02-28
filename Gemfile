@@ -16,6 +16,7 @@ gem 'searchkick'
 group :production do 
   gem 'thin'
   gem 'pg'
+  gem 'rails_12factor'
 end
 
 group :development, :test do
